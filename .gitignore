@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+Thumbs.db
 
 # debug
 npm-debug.log*
@@ -39,3 +40,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE / editor
+.idea/
+.vscode/settings.json
+*.swp
+*.swo
+
+# Kiro MCP config (contains API tokens — never commit)
+.kiro/settings/mcp.json
+
+# OS
+.DS_Store
+desktop.ini
