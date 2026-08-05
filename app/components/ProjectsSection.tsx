@@ -73,6 +73,7 @@ const COMPLETE_PROJECTS: ProjectCardProps[] = [
   { image: "/projects/hindizaa.png", techs: ["Flutter", "Dart", "Provider", "GetX", "In-App Purchase"], title: "Hindizaa", description: "One-stop reading platform for Hindi book lovers. Vast collection across novels, motivational, spiritual, educational & self-improvement books.", playStoreUrl: "https://play.google.com/store/apps/details?id=com.hindizaa.app&hl=en_IN" },
   { image: "/projects/designDpo.png", techs: ["Android", "Java", "Kotlin", "MVVM", "REST API"], title: "DesignDpo", description: "Interior designing app that brings home decor, renovation, and design to your fingertips. Browse unlimited designs and connect with professionals.", playStoreUrl: "https://play.google.com/store/apps/details?id=com.developer.dsigndpo&hl=en_IN" },
   { techs: ["Java", "Kotlin", "IntelliJ Plugin", "ADB"], title: "Current Fragment", description: "IntelliJ/Android Studio plugin to inspect the active Activity & Fragment stack via ADB. Alt+0 shortcut. 205 downloads · ⭐ 4.7", liveUrl: "https://plugins.jetbrains.com/plugin/29122-current-fragment" },
+  { image: "/projects/uplivo.png", techs: ["Android", "Firebase", "DeepAR", "Agora", "In-App Purchase"], title: "Uplivo", description: "Live social community platform with voice chat rooms, live streaming, real-time messaging, virtual gifting, and global friend discovery. High-quality voice/video with a safe, interactive experience." },
 ];
 
 const SMALL_PROJECTS: ProjectCardProps[] = [
